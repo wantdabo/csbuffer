@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSBuffer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSBuffer_jar</output-path>
+    <root id="archive" name="CSBuffer.jar">
+      <element id="module-output" name="CSBuffer" />
+    </root>
+  </artifact>
+</component>
