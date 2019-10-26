@@ -51,7 +51,7 @@ public final short readShort();
 .....
 ```
 
-## BufferWriter  `(二进制写入取类)`
+## BufferWriter  `(二进制流写入类)`
 
 对应 C# （BinaryWriter）
 
