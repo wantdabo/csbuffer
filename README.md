@@ -39,13 +39,13 @@ public class Test {
 继承于 BufferedInputStream
 
 ```java
-// 读取布尔值， 1 个字节
+// 读取布尔值, 1 个字节
 public final boolean readBoolean();
-// 读取 Byte， 1 个字节
+// 读取 Byte, 1 个字节
 public final byte readByte();
 // 读取无符号 Byte, 1 个字节
 public final byte readUnsignedByte();
-// 读取 Short， 2 个字节
+// 读取 Short, 2 个字节
 public final short readShort();
 // 详细请查看源码
 .....
@@ -58,13 +58,13 @@ public final short readShort();
 继承于 BufferedOutputStream
 
 ```java
-// 写入布尔值， 1 个字节
+// 写入布尔值, 1 个字节
 public final void writeBoolean();
-// 写入 Byte， 1 个字节
+// 写入 Byte, 1 个字节
 public final void writeByte();
 // 写入 Short, 2 个字节
 public final void writeShort();
-// 写入 Char， 2 个字节
+// 写入 Char, 2 个字节
 public final void writeChar();
 // 详细请查看源码
 .....
